@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Simple Latest API
-Plugin URI: http:/www.reneses.io
+Plugin URI: https://github.com/reneses/simple-latest-api/
 Description: Simple endpoint to retrieve the latest posts in JSON format, accessible at: <code>/api-latest/{per_page}/{page}</code>. IMPORTANT: Once installed, you have to flush and regenerate the rewrite rules database, by going to 'Settings -> Permalinks' and just clicking 'Save Changes'
 Version: 1.0
 Author: Alvaro Reneses
